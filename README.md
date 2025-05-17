@@ -6,13 +6,14 @@ Displays results on an LCD screen or Serial Monitor
 Can be further developed for advanced health monitoring systems
 
 Wiring:
-Pulse Sensor
-+ -> 5V
-- -> GND
-S -> A0
 
-LCD I2C
-GND -> GND
-VCC -> 5V
-SDA -> A4
-SCL -> A5
+**Pulse Sensor**  
+- `+` → 5V  
+- `-` → GND  
+- `S` → A0  
+
+**LCD I2C**  
+- `GND` → GND  
+- `VCC` → 5V  
+- `SDA` → A4  
+- `SCL` → A5 
